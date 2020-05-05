@@ -4,5 +4,31 @@
 	</head>
 	<body>
 		<center> Ini latihan Github </center>
+
+	Tiyas Setyo Widyastuti / 170101208
+
+	Langkah – langkah Menggunakan github :
+	1.Menginstall Git for PC.
+	2.Membuat akun github.
+	3.Membuat repositori baru.
+	4.Memberi nama repositori.
+	5.Membuat folder di dekstop, klik kanan lalu new folder. Beri nama folder dengan  Latihan Github. Dan membuat file baru dengan nama index.txt atau index.html.
+	6.Mengedit index.html dan memasukkan kode.
+	7.Mempush ke Github dengan cara klik kanan Git Bash Here 
+	8.Muncul command prompt, lakukan konfigurasi dengan cara.
+		Git config –-global  user. Email tyassetyo90@gmail.com
+		Email sesuai email kalian.
+	9.Lakukan push dengan ketik :
+		Git init (meinisialisasi github kedalam folder)
+		Git add . (menambahkan semua file)
+		Git commit –m “First Commit” ( untuk mengupload pertama kalinya)
+	10.Copy di github 
+		git remote add origin https://github.com/kiddyatreides/Latihan-Github.git
+		lalu paste git remote tersebut pada command prompt.
+	11.Lalu upload dengan ketik 
+		Git push origin master
+	12.Cek github jika sudah muncul file index.html, berarti file tersebut sudah terupload dan akan muncul kodenya.
+	13.Selesai ? 
+
 	</body>
 </html>
